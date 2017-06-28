@@ -1,0 +1,7 @@
+#dirs
+.idea/
+
+#files
+*.log
+*.temp
+*.ini
